@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ActionBar">#403A3A</color>
+
+    <color name="btnBackground">#F6F6F6</color>
+    <color name="btnText">#515151</color>
+
+    <color name="background">#363636</color>
+    <color name="cardGreen">#2BD099</color>
+    <color name="cardOrange">#F4AB23</color>
+    <color name="cardBlue">#63C3FA</color>
+
+    <color name="colorTitle">#E2E2E2</color>
+    <color name="colorDescripition">#D9D9D9</color>
+
+    <color name="colorTxtRow">#292929</color>
+
+    <color name="colorPad">#1A1A1A</color>
+</resources>
